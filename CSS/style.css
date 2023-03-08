@@ -137,9 +137,9 @@ h1 {
   margin-bottom: 1.1rem;
 }
 
-/*text books page setting ATENCAO CAIXA QUE FAZ O CONTORNO ENTRE AS CAIXAS BRANCAS*/
+/*text books page setting*/
 .input-box input {
-  /*campo responsavel pelo tamanho das caixas brancas*/
+  
   margin: 0.6rem 0;
   padding: 0.8rem 1.2rem;
   border: none;
@@ -147,7 +147,7 @@ h1 {
   box-shadow: 1px 1px 6px #0000001c;
 }
 
-/*campo responsavel pelo tamanho das caixas brancas*/
+
 .input-box-signup input {
   margin: 0.6rem 0;
   padding: 0.8rem 1.2rem;
@@ -177,7 +177,7 @@ h1 {
 }
 
 
-/*campo responsavel pela borda ao redor das caixas*/
+
 .input-box input:focus-visible {
   outline: 1px solid #813;
 }
@@ -378,7 +378,7 @@ img {
 
 /*Header home page*/
 .hero {
-  background: url(/IMG/delibreads.jpg) no-repeat center center/cover;
+  background: url(./IMG/delibreads.jpg) no-repeat center center/cover;
   height: 100vh;
   position: relative;
   color: #fff;
@@ -386,7 +386,7 @@ img {
 
 /*ANTI ALLERGEN PAGE SETTING*/
 .anti {
-  background: url(/IMG/antiallergenapi.jpg) no-repeat center center/cover;
+  background: url(./IMG/antiallergenapi.jpg) no-repeat center center/cover;
   height: 100vh;
   position: relative;
   color: #fff;
@@ -511,7 +511,7 @@ form button:hover {
   align-items: flex-start;
   justify-content: center;
   padding: 300px;
-  /*controla a distancia das caixas de login coluna 2*/
+
 
 }
 
@@ -659,7 +659,7 @@ form button:hover {
   margin-top: 20px;
 }
 
-/*Para que a borda da caixa do form mude de cor*/
+
 
 .login-form input:focus {
   outline-color: #813a53;
