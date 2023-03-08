@@ -80,9 +80,9 @@
 
   .navbar a {
     padding: 10px 10px;
-    /*controla a distancia entre os botoes da NavBar*/
+
     margin: 0 3px;
-    /* deixa responsivo mesmo sem o burguer*/
+
   }
 
   .flex-items {
