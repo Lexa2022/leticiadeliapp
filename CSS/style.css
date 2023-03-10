@@ -378,7 +378,7 @@ img {
 
 /*Header home page*/
 .hero {
-  background: url(../IMG/delibreads.jpg) no-repeat center center/cover;
+  background: url(//IMG/delibreads.jpg) no-repeat center center/cover;
   height: 100vh;
   position: relative;
   color: #fff;
