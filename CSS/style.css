@@ -378,7 +378,7 @@ img {
 
 /*Header home page*/
 .hero {
-  background: url(./IMG/delibreads.jpg) no-repeat center center/cover;
+  background: url(../IMG/delibreads.jpg) no-repeat center center/cover;
   height: 100vh;
   position: relative;
   color: #fff;
@@ -386,7 +386,7 @@ img {
 
 /*ANTI ALLERGEN PAGE SETTING*/
 .anti {
-  background: url(./IMG/antiallergenapi.jpg) no-repeat center center/cover;
+  background: url(../IMG/antiallergenapi.jpg) no-repeat center center/cover;
   height: 100vh;
   position: relative;
   color: #fff;
